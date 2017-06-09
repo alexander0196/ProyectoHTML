@@ -1,0 +1,22 @@
+<svg width="341" height="157" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <filter height="200%" width="200%" y="-50%" x="-50%" id="svg_9_blur">
+   <feGaussianBlur stdDeviation="1" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="#f4f4f9" id="canvas_background" height="159" width="343" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text filter="url(#svg_9_blur)" font-weight="bold" font-style="italic" xml:space="preserve" text-anchor="start" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="32" id="svg_9" y="147" x="34.945313" stroke-width="0" fill="#000000">William Rodriguez</text>
+  <path id="svg_14" d="m125.999998,42.500002l17.999997,-19.749999l0,9.874996l14.500503,0l0,-29.624996l26.998993,0l0,29.624996l14.5005,0l0,-9.874996l18,19.749999l-18,19.749996l0,-9.875l-14.5005,0l0,29.625002l-26.998993,0l0,-29.625002l-14.500503,0l0,9.875l-17.999997,-19.749996z" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#A98E49"/>
+  <path id="svg_15" d="m114.088791,120.000002l0,-89.000002l107,89.000002l-107,0z" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000"/>
+  <path stroke="#000" transform="rotate(40.61514663696289 223.9696655273437,73.49249267578125) " id="svg_17" d="m194.486202,111.28805l0,-75.59113l58.96692,75.59113l-58.96692,0z" stroke-opacity="null" stroke-width="0" fill="#666666"/>
+ </g>
+</svg>
